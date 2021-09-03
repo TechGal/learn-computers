@@ -6,21 +6,21 @@ There are so many interesting topics within the field of computers. From masteri
 
 ### Table of Contents:
 
- - Bash Command Line
- - Python 3
- - C
- - SQL
- - Dotfiles
- - Regex
- - Linux Kernal
- - Python Libraries
- - Data Science and Machine Learning
- - Cryptography
- - Vulnerabilities
- - Web Programming
- - Networking
- - Hardware
- - Generally Helpful
+ - [Bash Command Line] (#bash-command-line)
+ - [Python 3] (#python-3)
+ - [C] (#c)
+ - [SQL] (#sql)
+ - [Dotfiles] (#dotfiles)
+ - [Regex] (#regex)
+ - [Linux Kernal] (#linux-kernal)
+ - [Python Libraries] (#python-libraries)
+ - [Data Science and Machine Learning] (#data-science-and-machine-learning)
+ - [Cryptography] (#cryptography)
+ - [Vulnerabilities] (#vulnerabilities)
+ - [Web Programming] (#web-programming)
+ - [Networking] (#networking)
+ - [Hardware] (#hardware)
+ - [Generally Helpful] (#generally-helpful)
 
 
 ### Bash Command Line
